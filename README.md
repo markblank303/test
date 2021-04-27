@@ -29,7 +29,8 @@ In addition to the map, the website has the following elements:
 11. Converted fourteener, brewery, and campsite csv files to html tables in Jupyter notebook
 12. Created html using bootstrap css styling elements, including a navigation bar and a carousel of images, to display the map and pages for the html data tables. Also, used leaflet css.
 
-![Screenshot](capture.jpg)
+![Capture](https://user-images.githubusercontent.com/75405590/116325786-39a99680-a780-11eb-8c3d-33a8addd5707.JPG)
+
 
 ## Data Sources
 - **14er Project/ETL Project:** https://github.com/dalberghini/14er_project
